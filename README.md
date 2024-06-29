@@ -4,6 +4,8 @@ Estrutura inicial do Projeto de Landing Page com Grid do curso DevQuest. Um proj
 ## Descrição da tarefa
 O principal desafio é criar as principais estruturas de uma Landing Page. Isso inclui o uso do menu hamburguer para a versão mobile, e menu normal (por extenso) na versão desktop. A parte de animação da transição do menu hambúrguer, ao ser clicado, para o "X" é feita toda utilizando apenas HTML e CSS.
 
+Acesse o projeto criado aqui: [Estrutura de uma Landing Page Agência XYZ](https://cezarviana.github.io/estrutura-inicial-landing-page-agencia/).
+
 ### Font family para ser usada no projeto:
 
 - Family: [Roboto](https://fonts.google.com/specimen/Roboto?query=roboto)
